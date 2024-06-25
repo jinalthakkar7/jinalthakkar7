@@ -3,14 +3,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=New+Jersey+Institute+of+Technology;Masters+in+Computer+Science;Data+Analyst+at+CFI+Consulting" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=New+Jersey+Institute+of+Technology;Masters+in+Computer+Science;Data+Analyst+and+AI+Enthusiast+" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
   - 🔭 Graduate Student at <strong>New Jersey Institute of Technology</strong><br>
   - 🌱 Tools I'm proficient in: <strong>SQL, Python, R, Excel, Tableau, Power BI </strong><br>
-  - 🌱 I’m currently learning <strong>Salesforce, AWS</strong><br>
+  - 🌱 I’m currently learning <strong>Scikit-learn, PySpark, Hadoop, Spark, TensorFlow, PyTorch</strong><br>
   - 💬 Ask me about <strong>Data Validation Processes, Automated Reporting Systems, Resource Utilization Analysis, Data Pipeline Optimization, Predictive Modeling, ETL Processes, KPI Monitoring, and Advanced Visualization Techniques using Tableau and Power BI</strong><br>
   - 📫 How to reach me: <strong><a href="mailto:jinalthakkar2024@gmail.com">jinalthakkar2024@gmail.com</a></strong><br>
   - 📄 Know about my experiences: <a href="https://github.com/jinalthakkar7/Resume-/blob/main/Jinal_Thakkar_Resume.pdf">Download Resume</a>
