@@ -13,7 +13,7 @@
   - 🌱 I’m currently learning <strong>Scikit-learn, PySpark, Hadoop, Spark, TensorFlow, PyTorch</strong><br>
   - 💬 Ask me about <strong>Data Validation Processes, Automated Reporting Systems, Resource Utilization Analysis, Data Pipeline Optimization, Predictive Modeling, ETL Processes, KPI Monitoring, and Advanced Visualization Techniques using Tableau and Power BI</strong><br>
   - 📫 How to reach me: <strong><a href="mailto:jinalthakkar2024@gmail.com">jinalthakkar2024@gmail.com</a></strong><br>
-  - 📄 Know about my experiences: <a href="https://github.com/jinalthakkar7/Resume-/blob/main/Jinal_Thakkar_Resume.pdf">Download Resume</a>
+  - 📄 Know about my experiences: <a href="[https://github.com/jinalthakkar7/Resume-/blob/main/Jinal_Thakkar_Resume.pdf]https://github.com/jinalthakkar7/MyResume/blob/main/Jinal_Thakkar_Data_Analyst.pdf">Download Resume</a>
 </p>
 
 <p align="center">Connect with me on:</p>
@@ -70,9 +70,5 @@
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40">
-  </a>
-  <!-- SAS -->
-  <a href="https://www.sas.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" alt="SAS" width="40" height="40">
   </a>
 </p>
