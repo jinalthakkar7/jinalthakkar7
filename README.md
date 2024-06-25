@@ -13,9 +13,8 @@
   - 🌱 I’m currently learning <strong>Scikit-learn, PySpark, Hadoop, Spark, TensorFlow, PyTorch</strong><br>
   - 💬 Ask me about <strong>Data Validation Processes, Automated Reporting Systems, Resource Utilization Analysis, Data Pipeline Optimization, Predictive Modeling, ETL Processes, KPI Monitoring, and Advanced Visualization Techniques using Tableau and Power BI</strong><br>
   - 📫 How to reach me: <strong><a href="mailto:jinalthakkar2024@gmail.com">jinalthakkar2024@gmail.com</a></strong><br>
- - 📄 Know about my experiences: [Download Resume](https://github.com/jinalthakkar7/MyResume/blob/main/Jinal_Thakkar_Data_Analyst.pdf)
-
-
+  - 📄 Know about my experiences: <a href="https://github.com/jinalthakkar7/MyResume/blob/main/Jinal_Thakkar_Data_Analyst.pdf">Download Resume</a>
+</p>
 <p align="center">Connect with me on:</p>
 
 <p align="center">
