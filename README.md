@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, it's Jinal Thakkar 👋</h1>
-<h3 align="center">I am a Data and Artificial Intelligance Enthusiast</h3>
+<h1 align="left">Hi there, it's Jinal Thakkar 👋</h1>
+<h3 align="left">I am a Data and Artificial Intelligance Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=New+Jersey+Institute+of+Technology;Masters+in+Computer+Science;Data+Analyst+and+AI+Enthusiast+" alt="Typing SVG">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   - 🔭 Graduate Student at <strong>New Jersey Institute of Technology</strong><br>
   - 🌱 Tools I'm proficient in: <strong>SQL, Python, R, Excel, Tableau, Power BI </strong><br>
   - 🌱 I’m currently learning <strong>Scikit-learn, PySpark, Hadoop, Spark, TensorFlow, PyTorch</strong><br>
@@ -15,17 +15,17 @@
   - 📫 How to reach me: <strong><a href="mailto:jinalthakkar2024@gmail.com">jinalthakkar2024@gmail.com</a></strong><br>
   - 📄 Know about my experiences: <a href="https://github.com/jinalthakkar7/MyResume/blob/main/Jinal_Thakkar_Data_Analyst.pdf">Download Resume</a>
 </p>
-<p align="center">Connect with me on:</p>
+<p align="left">Connect with me on:</p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/jinalthakkar0411/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn Logo">
   </a>
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
